@@ -1,0 +1,10 @@
+console.log("2">=1)
+console.log("22">=1111)
+console.log(null > 0)
+console.log(null > -1)
+console.log(678>99998)
+console.log(8999789>"6788990000")
+console.log(undefined>=null)
+console.log(undefined>null)
+console.log(undefined==null)
+
