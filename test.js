@@ -18,3 +18,4 @@ let state
 console.log(state)
 console.log(typeof "hiyesj")
 console.log(typeof null)
+console.log(789-246)
