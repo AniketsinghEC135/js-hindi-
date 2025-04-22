@@ -9,6 +9,19 @@ const opinion = Symbol(1234)
 const oionion = Symbol(1234)
 console.log(opinion==oionion)
 
+const arries = ["anieket","hooligan ","yuioivv"];
+console.log(arries)
+//
+const intinr=null   
+console.log(typeof intir) // undefined 
+//
+
+const myfunction = function(){
+    console.log("helloworld")
+}
+console.log(typeof myfunction )
+console.log(myfunction)
+
 
 // In JavaScript, the Symbol is a primitive data type introduced 
 // in ES6 (ECMAScript 2015). Symbols are used to create unique and immutable 
